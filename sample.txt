@@ -1,0 +1,4 @@
+Python and Bash Assignment
+
+This file was created using Python file handling.
+The program uses open() and write() to create and write content to a text file.
