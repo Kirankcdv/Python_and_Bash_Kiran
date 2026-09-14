@@ -1,6 +1,4 @@
-
-score = int(input("Enter the score: "))
-
+score = int(input( "enter the score ="))
 if score >= 90:
     grade = "A"
 elif score >= 80:
@@ -8,7 +6,7 @@ elif score >= 80:
 elif score >= 70:
     grade = "C"
 elif score >= 60:
-    grade = "D"
+    grade  = "D"
 else:
     grade = "F"
 
